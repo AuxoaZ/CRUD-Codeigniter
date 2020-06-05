@@ -1,0 +1,6 @@
+.bg-gradient2 {
+    background: -webkit-linear-gradient(-90deg, #8f2d89, #2e45b8);
+    background: -o-linear-gradient(-90deg, #8f2d89, #2e45b8);
+    background: -moz-linear-gradient(-90deg, #8f2d89, #2e45b8);
+    background: linear-gradient(-90deg, #8f2d89, #2e45b8);
+}
